@@ -32038,9 +32038,9 @@
   "first_test_high_acc_epoch": 40200,
   "test_loss_peak_epoch": 2000,
   "test_loss_peak": 12.199919546886717,
-  "grokking": false,
-  "plate_length": 0,
+  "grokking": true,
+  "plate_length": 5100,
   "weights_path": "results/seed229_model.pt",
   "hidden_size_ratio": 1.0,
-  "first_sustained_test_acc_epoch": 0
+  "first_sustained_test_acc_epoch": 5850
 }

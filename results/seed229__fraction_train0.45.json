@@ -8038,9 +8038,9 @@
   "first_test_high_acc_epoch": 3600,
   "test_loss_peak_epoch": 1000,
   "test_loss_peak": 9.39548155651394,
-  "grokking": false,
-  "plate_length": 0,
+  "grokking": true,
+  "plate_length": 600,
   "weights_path": "results/seed229__fraction_train0.45_model.pt",
   "hidden_size_ratio": 1.0,
-  "first_sustained_test_acc_epoch": 0
+  "first_sustained_test_acc_epoch": 1800
 }

@@ -8039,8 +8039,8 @@
   "test_loss_peak_epoch": 3800,
   "test_loss_peak": 13.933418452173356,
   "grokking": false,
-  "plate_length": 0,
+  "plate_length": 20600,
   "weights_path": "results/seed229__fraction_train0.25_model.pt",
   "hidden_size_ratio": 1.0,
-  "first_sustained_test_acc_epoch": 0
+  "first_sustained_test_acc_epoch": 21400
 }

@@ -8042,5 +8042,5 @@
   "plate_length": 0,
   "weights_path": "results/seed229__fraction_train0.6_model.pt",
   "hidden_size_ratio": 1.0,
-  "first_sustained_test_acc_epoch": 0
+  "first_sustained_test_acc_epoch": 1200
 }

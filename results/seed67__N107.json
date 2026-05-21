@@ -16038,9 +16038,9 @@
   "first_test_high_acc_epoch": 38200,
   "test_loss_peak_epoch": 1600,
   "test_loss_peak": 11.412829375192663,
-  "grokking": false,
-  "plate_length": 0,
+  "grokking": true,
+  "plate_length": 4000,
   "weights_path": "results/seed67__N107_model.pt",
   "hidden_size_ratio": 1.0,
-  "first_sustained_test_acc_epoch": 0
+  "first_sustained_test_acc_epoch": 4800
 }

@@ -8039,8 +8039,8 @@
   "test_loss_peak_epoch": 2400,
   "test_loss_peak": 11.368893210482058,
   "grokking": false,
-  "plate_length": 0,
+  "plate_length": 13800,
   "weights_path": "results/seed67__N83_model.pt",
   "hidden_size_ratio": 1.0,
-  "first_sustained_test_acc_epoch": 0
+  "first_sustained_test_acc_epoch": 14600
 }

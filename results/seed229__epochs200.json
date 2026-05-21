@@ -106,5 +106,5 @@
   "plate_length": -1,
   "weights_path": "results/seed229__epochs200_model.pt",
   "hidden_size_ratio": 1.0,
-  "first_sustained_test_acc_epoch": 0
+  "first_sustained_test_acc_epoch": -1
 }

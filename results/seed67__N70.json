@@ -16039,8 +16039,8 @@
   "test_loss_peak_epoch": 2300,
   "test_loss_peak": 10.5426483510187,
   "grokking": false,
-  "plate_length": 0,
+  "plate_length": 14200,
   "weights_path": "results/seed67__N70_model.pt",
   "hidden_size_ratio": 1.0,
-  "first_sustained_test_acc_epoch": 0
+  "first_sustained_test_acc_epoch": 15000
 }
