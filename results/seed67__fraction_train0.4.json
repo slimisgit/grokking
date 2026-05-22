@@ -8028,10 +8028,6 @@
   "fraction_train": 0.4,
   "lr": 0.001,
   "weight_decay": 1.0,
-  "betas": [
-    0.9,
-    0.98
-  ],
   "epochs": 100000,
   "checkpoint_interval": 200,
   "first_train_high_acc_epoch": 1000,
@@ -8042,5 +8038,7 @@
   "plate_length": 1400,
   "weights_path": "results/seed67__fraction_train0.4_model.pt",
   "hidden_size_ratio": 1.0,
-  "first_sustained_test_acc_epoch": 2400
+  "first_sustained_test_acc_epoch": 2400,
+  "beta1": 0.9,
+  "beta2": 0.98
 }

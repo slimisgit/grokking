@@ -16028,10 +16028,6 @@
   "fraction_train": 0.3,
   "lr": 0.001,
   "weight_decay": 1.0,
-  "betas": [
-    0.9,
-    0.98
-  ],
   "epochs": 100000,
   "checkpoint_interval": 100,
   "first_train_high_acc_epoch": 800,
@@ -16042,5 +16038,7 @@
   "plate_length": 2800,
   "weights_path": "results/seed67__N144_model.pt",
   "hidden_size_ratio": 1.0,
-  "first_sustained_test_acc_epoch": 3600
+  "first_sustained_test_acc_epoch": 3600,
+  "beta1": 0.9,
+  "beta2": 0.98
 }
