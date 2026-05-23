@@ -8028,19 +8028,19 @@
   "fraction_train": 0.5,
   "lr": 0.001,
   "weight_decay": 1.0,
-  "betas": [
-    0.9,
-    0.98
-  ],
   "epochs": 100000,
   "checkpoint_interval": 200,
   "first_train_high_acc_epoch": 1200,
   "first_test_high_acc_epoch": 3000,
   "test_loss_peak_epoch": 800,
   "test_loss_peak": 8.906500527031644,
-  "grokking": true,
-  "plate_length": 1800,
+  "grokking": false,
+  "plate_length": 400,
   "weights_path": "results/seed228__fraction_train0.5_model.pt",
   "max_growth_rate": 0.0008700078308535631,
-  "max_growth_rate_epoch": 2000
+  "max_growth_rate_epoch": 2000,
+  "hidden_size_ratio": 1.0,
+  "beta1": 0.9,
+  "beta2": 0.98,
+  "first_sustained_test_acc_epoch": 1600
 }

@@ -8035,10 +8035,12 @@
   "test_loss_peak_epoch": 1600,
   "test_loss_peak": 11.72531461913069,
   "grokking": true,
-  "plate_length": 22800,
+  "plate_length": 4400,
   "weights_path": "results/seed228_model.pt",
   "beta1": 0.9,
   "beta2": 0.98,
   "max_growth_rate": 0.0001057165231010182,
-  "max_growth_rate_epoch": 11800
+  "max_growth_rate_epoch": 11800,
+  "hidden_size_ratio": 1.0,
+  "first_sustained_test_acc_epoch": 5200
 }
