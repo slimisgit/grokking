@@ -16040,5 +16040,7 @@
   "hidden_size_ratio": 1.0,
   "first_sustained_test_acc_epoch": 38500,
   "beta1": 0.9,
-  "beta2": 0.98
+  "beta2": 0.98,
+  "max_growth_rate": 3.6003600360035856e-05,
+  "max_growth_rate_epoch": 68600
 }

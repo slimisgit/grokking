@@ -16040,5 +16040,7 @@
   "plate_length": 33100,
   "weights_path": "results/seed228__N69_model.pt",
   "beta1": 0.9,
-  "beta2": 0.98
+  "beta2": 0.98,
+  "max_growth_rate": 5.7005700570056936e-05,
+  "max_growth_rate_epoch": 67700
 }

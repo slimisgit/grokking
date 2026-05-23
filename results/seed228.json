@@ -8038,5 +8038,7 @@
   "plate_length": 22800,
   "weights_path": "results/seed228_model.pt",
   "beta1": 0.9,
-  "beta2": 0.98
+  "beta2": 0.98,
+  "max_growth_rate": 0.0001057165231010182,
+  "max_growth_rate_epoch": 11800
 }
